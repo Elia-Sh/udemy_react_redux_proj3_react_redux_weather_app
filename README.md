@@ -2,6 +2,8 @@
 
 Practicing [React-Redux](https://www.udemy.com/react-redux/)
 
+![Alt text](/weather_app.gif?raw=true "Weather App")
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
